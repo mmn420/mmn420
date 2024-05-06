@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior System and Biomedical Engineering Student who's intrested in building web applications and software engineering.
+I am Software Engineer who's intrested in building web applications and software testing.
 ## 🛠 Technologies and languages
 
 
